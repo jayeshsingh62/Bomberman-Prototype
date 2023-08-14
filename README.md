@@ -1,2 +1,2 @@
 # Bomberman-Prototype
-Another upload of Bomberman prototype because last one wasn't uploading properly
+A classic bomberman game prototype containing basic features
